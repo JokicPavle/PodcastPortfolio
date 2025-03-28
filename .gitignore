@@ -1,0 +1,18 @@
+# Eclipse fajlovi
+.classpath
+.project
+.settings/
+
+# Build fajlovi
+bin/
+build/
+
+# Maven fajlovi (ako koristiš Maven)
+target/
+
+# IDE fajlovi
+*.iml
+*.log
+.idea/
+
+
